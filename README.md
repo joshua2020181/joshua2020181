@@ -33,7 +33,7 @@ Hello, I am Joshua Cheng, a Robotics Software Engineer. I love cool robots and m
 
 https://github.com/user-attachments/assets/07dc13fc-0d6e-4651-9457-9f6b43828cc3
 
-## wordle scoreboard bot
+## [Wordle Scoreboard Bot](https://github.com/joshua2020181/wordle-scoreboard-bot/tree/main)
 - Simple discord bot that compiles the results of popular Wordle-like games, such as Tradle, Yeardle, or Connections and has a daily leaderboard
 
 ## [Venn Diagram Generator](https://github.com/joshua2020181/VennDiagramGenerator)
