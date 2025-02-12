@@ -1,14 +1,14 @@
 # About
 
-Hello, I am Joshua Cheng, a Robotics Software Engineer. I love cool robots and making them do crazy things. I studied Computer Engineering and Computer Science at Northeastern University. Below is a non-exhaustive list of some projects I've worked on recently.
+Hello, I am Joshua Cheng, a Robotics Software Engineer. I love cool robots and making them do crazy things. I studied Computer Engineering and Computer Science at Northeastern University. Below is a list of some projects I've worked on recently.
 
 # Projects
 ## [textgpt](https://github.com/joshua2020181/textgpt)
+
 - Simple Rust webserver to allow chatting with ChatGPT via SMS (text) messaging
+- I created this as a fun way to practice using async in Rust
 
-<img src="https://github.com/user-attachments/assets/94f923e7-78c5-469f-b5af-f9059c063fdc" width="300" />
-
-
+![image](https://github.com/user-attachments/assets/2c459692-98b5-446f-b6d0-324573b519ab)
 
 ## [Northeastern Underwater Robotics](https://github.com/NEURoboticsClub/neu-underwater-robotics)
 
@@ -19,27 +19,31 @@ Hello, I am Joshua Cheng, a Robotics Software Engineer. I love cool robots and m
 ![IMG_6133](https://github.com/user-attachments/assets/bccec0e1-c537-4883-9135-e7c7148809ee)
 
 ## [Low-Cost Underwater Acoustic Release](https://github.com/Sound-Floats/deckbox)
-- [linkedin post](https://www.linkedin.com/posts/joshuacheng2020181_ece-northeastern-engineering-activity-7138165241569271808-DFnL/)
 - For our Senior Capstone project, we created a low-cost acoustic release to anchor then release underwater acoustic sensors.
+- The link above links to the repo with our code for the deck box, a waterproof box for communicating and controlling the acoustic releases.
+- For more info check out my [linkedin post](https://www.linkedin.com/posts/joshuacheng2020181_ece-northeastern-engineering-activity-7138165241569271808-DFnL/)
+
+![1701832837784](https://github.com/user-attachments/assets/6e9433c0-89ce-4b09-b40f-078dc9322695)
 
 
-## [RSN final project](https://github.com/joshua2020181/rsn-final-project)
-## Venn Diagram Generator
-## spotifysync
+## [Two Axis Object Tracking Camera](https://github.com/joshua2020181/rsn-final-project)
+- This was the final project submission for my Robotics Sensing and Navigation class in the Spring of 2024
+- It is a standard USB webcam mounted on two servos to allow for pan and tilt motion
+- I used OpenCV for the object detection, and sent simple serial commands to the Arduino to command the servos
+
+https://github.com/user-attachments/assets/07dc13fc-0d6e-4651-9457-9f6b43828cc3
+
 ## wordle scoreboard bot
+- Simple discord bot that compiles the results of popular Wordle-like games, such as Tradle, Yeardle, or Connections and has a daily leaderboard
+
+## [Venn Diagram Generator](https://github.com/joshua2020181/VennDiagramGenerator)
+- This was the final project submission for my Discrete Structures class in the Spring of 2021
+- This is an online Venn Diagram generator to visualize overlapping sets
+
+![image](https://github.com/user-attachments/assets/7888c03e-70b0-4291-b313-32de6f6e9d36)
 
 
-<!--
-**joshua2020181/joshua2020181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [spotifysync](https://github.com/joshua2020181/spotifysync)
+- This is a project to sync Spotify playback between two or more users in the same "room" before Spotify Jam came out
+- Created this during COVID to listen to music together with my friends
+- Users can also add songs to a collaborative queue
