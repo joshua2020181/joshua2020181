@@ -14,7 +14,7 @@ Hello, I am Joshua Cheng, a Robotics Software Engineer. I love cool robots and m
 
 - I competed in the [MATE ROV](https://materovcompetition.org/) underwater ROV competition for 7 years (all 4 years of high school and 3 years at Northeastern)
 - We finished 8th in the 2023 World Championships in our rookie year!
-- I wrote most of the controls code (Python) for the 2022-2024 seasons, and was the software team lead for 2022-2024
+- I wrote most of the controls code (Python) for the 2022-2024 seasons, and was the software/electrical team lead for 2022-2024
 
 ![IMG_6133](https://github.com/user-attachments/assets/bccec0e1-c537-4883-9135-e7c7148809ee)
 
