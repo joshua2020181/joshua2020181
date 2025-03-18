@@ -2,6 +2,8 @@
 
 Hello, I am Joshua Cheng, a Robotics Software Engineer. I love cool robots and making them do crazy things. I studied Computer Engineering and Computer Science at Northeastern University. Below is a list of some random personal projects I've worked on recently.
 
+> Here's my [dotfiles](https://github.com/joshua2020181/dotfiles) for tmux and neovim. I'm still working on perfecting it, but it works for now.
+
 # Projects
 ## [Northeastern Underwater Robotics](https://github.com/NEURoboticsClub/neu-underwater-robotics)
 
